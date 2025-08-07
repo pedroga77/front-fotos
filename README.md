@@ -1,7 +1,7 @@
 
- # Landing Page - Projeto de Cores
+ #  Carrosel - Projeto de Volta as Aulas
 
- ![alt text](image.png)
+ ![alt text](./image.png)
  ---
  ## Sobre
  Projeto de Volta as Aulas, com fake api utilizand o java server. 
